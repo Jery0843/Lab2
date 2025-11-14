@@ -34,7 +34,7 @@ export async function POST(request: NextRequest) {
     if (machine.password === password) {
       return NextResponse.json({
         success: true,
-        writeup: machine.writeup
+        message: 'Password verified. Please complete email verification.'
       });
     } else {
       return NextResponse.json(
