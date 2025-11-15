@@ -156,6 +156,27 @@ const Membership = () => {
               BuyMeACoffee Membership
             </a>
           </div>
+
+          {/* Legal Links */}
+          <div className="mt-8 text-center">
+            <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">
+              By subscribing, you agree to our:
+            </p>
+            <div className="flex justify-center space-x-6">
+              <a
+                href="/terms"
+                className="text-green-600 dark:text-cyber-green hover:text-blue-600 dark:hover:text-cyber-blue transition-colors underline text-sm"
+              >
+                Terms & Conditions
+              </a>
+              <a
+                href="/privacy"
+                className="text-green-600 dark:text-cyber-green hover:text-blue-600 dark:hover:text-cyber-blue transition-colors underline text-sm"
+              >
+                Privacy Policy
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </Layout>
