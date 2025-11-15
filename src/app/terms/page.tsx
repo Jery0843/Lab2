@@ -19,7 +19,7 @@ export default function TermsPage() {
               TERMS & CONDITIONS
             </h1>
             <p className="text-cyber-blue text-lg">
-              Legal Framework // 0xJerry's Lab Platform
+              Legal Framework // 0xJerry&apos;s Lab Platform
             </p>
           </div>
 
@@ -31,10 +31,10 @@ export default function TermsPage() {
                 1. ACCEPTANCE OF TERMS
               </h2>
               <p className="text-gray-300 light:text-gray-700 leading-relaxed mb-4">
-                By accessing and using 0xJerry's Lab ("the Platform"), you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions. If you do not agree to these terms, you must not use the Platform.
+                By accessing and using 0xJerry&apos;s Lab (&quot;the Platform&quot;), you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions. If you do not agree to these terms, you must not use the Platform.
               </p>
               <p className="text-gray-300 light:text-gray-700 leading-relaxed">
-                These terms constitute a legally binding agreement between you and 0xJerry's Lab. We reserve the right to modify these terms at any time without prior notice.
+                These terms constitute a legally binding agreement between you and 0xJerry&apos;s Lab. We reserve the right to modify these terms at any time without prior notice.
               </p>
             </section>
 
@@ -74,7 +74,7 @@ export default function TermsPage() {
                 4. CONTENT & INTELLECTUAL PROPERTY
               </h2>
               <div className="space-y-4 text-gray-300 light:text-gray-700">
-                <p><strong className="text-cyber-green">4.1 Proprietary Content:</strong> All writeups, tutorials, machine configurations, and educational materials are proprietary to 0xJerry's Lab.</p>
+                <p><strong className="text-cyber-green">4.1 Proprietary Content:</strong> All writeups, tutorials, machine configurations, and educational materials are proprietary to 0xJerry&apos;s Lab.</p>
                 <p><strong className="text-cyber-green">4.2 Usage Rights:</strong> Members receive limited, non-transferable rights to access content for personal educational purposes only.</p>
                 <p><strong className="text-cyber-green">4.3 Prohibited Actions:</strong> You may not copy, distribute, modify, reverse engineer, or create derivative works from our content.</p>
                 <p><strong className="text-cyber-green">4.4 DMCA Compliance:</strong> We respect intellectual property rights and will respond to valid DMCA takedown notices.</p>
@@ -121,7 +121,7 @@ export default function TermsPage() {
                   <li>Dissatisfaction with content or services</li>
                   <li>Inability to access content due to technical limitations</li>
                 </ul>
-                <p><strong className="text-cyber-green">6.3 Billing Disputes:</strong> Payment disputes must be resolved through the respective platform's (Ko-fi or Buy Me a Coffee) dispute resolution process.</p>
+                <p><strong className="text-cyber-green">6.3 Billing Disputes:</strong> Payment disputes must be resolved through the respective platform&apos;s (Ko-fi or Buy Me a Coffee) dispute resolution process.</p>
                 <p><strong className="text-cyber-green">6.4 Price Changes:</strong> We reserve the right to modify subscription prices with 30 days notice to existing members.</p>
               </div>
             </section>
@@ -152,7 +152,7 @@ export default function TermsPage() {
                 <p><strong className="text-cyber-green">8.1 Service Availability:</strong> We strive for 99% uptime but do not guarantee uninterrupted service availability.</p>
                 <p><strong className="text-cyber-green">8.2 Content Accuracy:</strong> While we maintain high standards, we do not warrant the accuracy or completeness of all content.</p>
                 <p><strong className="text-cyber-green">8.3 Limitation of Liability:</strong> Our liability is limited to the amount paid for membership in the preceding 2 months.</p>
-                <p><strong className="text-cyber-green">8.4 Indemnification:</strong> Users agree to indemnify 0xJerry's Lab against claims arising from their use of the Platform.</p>
+                <p><strong className="text-cyber-green">8.4 Indemnification:</strong> Users agree to indemnify 0xJerry&apos;s Lab against claims arising from their use of the Platform.</p>
               </div>
             </section>
 
@@ -189,7 +189,7 @@ export default function TermsPage() {
                 Last Updated: November 15, 2024
               </p>
               <p className="text-cyber-blue mt-2">
-                By using 0xJerry's Lab, you acknowledge acceptance of these terms.
+                By using 0xJerry&apos;s Lab, you acknowledge acceptance of these terms.
               </p>
             </div>
           </div>
