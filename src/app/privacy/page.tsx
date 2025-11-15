@@ -19,7 +19,7 @@ export default function PrivacyPage() {
               PRIVACY POLICY
             </h1>
             <p className="text-cyber-blue text-lg">
-              Data Protection Framework // 0xJerry's Lab Platform
+              Data Protection Framework // 0xJerry&apos;s Lab Platform
             </p>
           </div>
 
@@ -31,7 +31,7 @@ export default function PrivacyPage() {
                 1. PRIVACY COMMITMENT
               </h2>
               <p className="text-gray-300 light:text-gray-700 leading-relaxed mb-4">
-                0xJerry's Lab is committed to protecting your privacy and personal information. This Privacy Policy explains how we collect, use, store, and protect your data when you use our Platform.
+                0xJerry&apos;s Lab is committed to protecting your privacy and personal information. This Privacy Policy explains how we collect, use, store, and protect your data when you use our Platform.
               </p>
               <p className="text-gray-300 light:text-gray-700 leading-relaxed">
                 We believe in transparency and will clearly communicate our data practices. By using our Platform, you consent to the data practices described in this policy.
@@ -183,18 +183,18 @@ export default function PrivacyPage() {
 
             <section>
               <h2 className="text-2xl font-cyber font-bold text-cyber-blue mb-4">
-                10. CHILDREN'S PRIVACY
+                10. CHILDREN&apos;S PRIVACY
               </h2>
               <div className="bg-cyber-purple/10 border border-cyber-purple/30 rounded-lg p-4 mb-4">
                 <p className="text-cyber-purple font-semibold mb-2">AGE RESTRICTION</p>
                 <p className="text-gray-300 light:text-gray-700">
-                  Our Platform is not intended for children under 10. We do not knowingly collect personal information from minors.
+                  Our Platform is not intended for children under 18. We do not knowingly collect personal information from minors.
                 </p>
               </div>
               <div className="space-y-4 text-gray-300 light:text-gray-700">
                 <p><strong className="text-cyber-green">10.1 Parental Consent:</strong> Users under 18 must have verifiable parental consent to use the Platform.</p>
                 <p><strong className="text-cyber-green">10.2 Data Deletion:</strong> If we discover we have collected data from a child without consent, we will delete it immediately.</p>
-                <p><strong className="text-cyber-green">10.3 Reporting:</strong> Parents can contact us to review, modify, or delete their child's information.</p>
+                <p><strong className="text-cyber-green">10.3 Reporting:</strong> Parents can contact us to review, modify, or delete their child&apos;s information.</p>
               </div>
             </section>
 
